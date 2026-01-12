@@ -433,7 +433,7 @@ wheels = [
 ]
 
 [[package]]
-name = "content-pipline-agent"
+name = "content-pipeline-agent"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
